@@ -2,9 +2,6 @@
 
 Automatically sends an email digest with the top 3 scorers from each NBA game (preseason and regular season) every morning at 7am Eastern Time.
 
-## 📧 Email Recipient
-**cardbazaar32@gmail.com**
-
 ## 🏀 What You'll Receive
 
 Each morning at 7am ET, you'll get an email like this:
