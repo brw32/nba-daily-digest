@@ -1,0 +1,58 @@
+NBA Daily Digest - December 6, 2024
+Games from: December 5, 2024
+
+══════════════════════════════════════════════════════════════
+
+Yesterday's Games: 8
+
+LAL 112 - 108 PHX
+BOS 118 - 114 MIA
+GSW 125 - 119 DEN
+MIL 127 - 120 CHI
+DAL 115 - 110 SAC
+PHI 108 - 103 CLE
+BKN 124 - 118 ATL
+MEM 119 - 106 UTA
+
+══════════════════════════════════════════════════════════════
+
+YOUR PLAYERS - FANTASY PERFORMANCE
+
+──────────────────────────────────────────────────────────────
+Player                  Team   PTS  REB  AST  STL  BLK  FAN PTS
+──────────────────────────────────────────────────────────────
+LeBron James            LAL     28    7    8    2    1    52.5
+Stephen Curry           GSW     34    4    6    1    0    51.0
+Giannis Antetokounmpo   MIL     31   12    5    2    3    59.0
+Luka Dončić            DAL     27    9   11    1    0    55.5
+Jayson Tatum            BOS     25    8    4    3    1    49.0
+Joel Embiid             PHI     29   11    3    1    2    53.5
+Kevin Durant            PHX     22    6    5    1    1    42.0
+Anthony Davis           LAL     24   15    2    1    4    57.0
+──────────────────────────────────────────────────────────────
+
+TEAM SUMMARY
+══════════════════════════════════════════════════════════════
+Total Fantasy Points:     420.5
+Average per Player:        52.6
+Top Performer:            Giannis Antetokounmpo (59.0 pts)
+Games with 50+ pts:       6 of 8 players
+
+NOTABLE PERFORMANCES
+══════════════════════════════════════════════════════════════
+🔥 Giannis Antetokounmpo: Triple-double threat with 31/12/5/2/3
+🔥 Anthony Davis: Dominant 24 pts, 15 rebounds, 4 blocks
+⭐ Luka Dončić: Near triple-double with 27/9/11
+
+SEASON STATS (Through Dec 5, 2024)
+══════════════════════════════════════════════════════════════
+Games Tracked:            25
+Total Fantasy Points:   10,512.5
+Daily Average:            420.5
+Best Day:                 487.0 (Nov 22)
+Top Scorer (Season):      Giannis Antetokounmpo (1,425 pts)
+
+══════════════════════════════════════════════════════════════
+
+Sent: December 6, 2024 at 7:00 AM EST
+Data source: ESPN NBA API
